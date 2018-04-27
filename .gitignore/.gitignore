@@ -59,8 +59,11 @@ public class Main {
         int[]ComparisonPrint = new int[50];
 
         //ComparisonPrint array is equal to i if myInt i is equal to FileArray i, print. otherwise, read next int in array
-        //for(int i=0; i < 50; i++) {
-
+        //use for loop!!!!!!
+       for(int j = 0; j < 50; j++) {
+           
+       }
+/*
             if (myInt[i] == FileArray[i]) {
 
                 ComparisonPrint [i] = i;
@@ -74,9 +77,10 @@ public class Main {
             }
        // }
 
-
+*/
 
 
 
     }
 }
+
